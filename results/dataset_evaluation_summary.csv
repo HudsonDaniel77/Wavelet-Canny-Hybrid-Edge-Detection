@@ -1,0 +1,6 @@
+Method,MSE,SNR,EPI,SSIM
+Canny,7167.667 ± nan,-5.046 ± nan,0.215 ± nan,0.226 ± nan
+Hybrid,2150.678 ± nan,0.182 ± nan,0.019 ± nan,0.100 ± nan
+Prewitt,0.650 ± nan,35.377 ± nan,0.997 ± nan,0.999 ± nan
+Sobel,0.000 ± nan,inf ± nan,1.000 ± nan,1.000 ± nan
+Wavelet,475.887 ± nan,6.732 ± nan,0.556 ± nan,0.670 ± nan
